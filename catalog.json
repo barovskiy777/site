@@ -1,0 +1,58 @@
+{
+    "01001": {
+        "name": "Борщ",
+        "image": "./img/products/soups/borsch.jpg",
+        "description": "традиционное восточнославянское блюдо, которое готовится со свеклой, что придаёт ему характерный насыщенный цвет",
+        "rating": 4,
+        "price": 350,
+        "weight": 500
+    },
+    "01002": {
+        "name": "Грибной суп-крем",
+        "image": "./img/products/soups/wild-mushroom-soup.jpg",
+        "description": "Нежный суп-крем с грибами с ярко-выраженным вкусом и приятной консистенцией",
+        "rating": 5,
+        "price": 450,
+        "weight": 500
+    },
+    "02001": {
+        "name": "Хачапури по-аджарски",
+        "image": "./img/products/khachapuri/01.jpg",
+        "description": "Тесто пшеничное, сыр сулугуни, яйцо",
+        "rating": 4,
+        "price": 420,
+        "weight": 400
+    },
+    "02002": {
+        "name": "Хачапури по-мегрельски",
+        "image": "./img/products/khachapuri/02.jpg",
+        "description": "Тесто пшеничное, сыр сулугуни",
+        "rating": 4,
+        "price": 470,
+        "weight": 550
+    },
+    "02003": {
+        "name": "Хачапури по-имеретински",
+        "image": "./img/products/khachapuri/03.jpg",
+        "description": "Тесто пшеничное, сыр сулугуни",
+        "rating": 4,
+        "price": 430,
+        "weight": 550
+    },
+    "03001": {
+        "name": "Салат с рукколой и креветками",
+        "image": "./img/products/salads/01.jpg",
+        "description": "Руккола с обжаренными креветками",
+        "rating": 5,
+        "price": 300,
+        "weight": 220
+    },
+    "03002": {
+        "name": "Салат из свежих овощей со сметаной",
+        "image": "./img/products/salads/02.jpg",
+        "description": "Легкий салат из розовых томатов, огурцов, сладкого...",
+        "rating": 4,
+        "price": 220,
+        "weight": 220
+    }
+}
