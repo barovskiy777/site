@@ -61,5 +61,131 @@
         "price": 220,
         "quantity": 220,
         "measurement": "гр"
-    }
+    },
+    "04001": {
+        "name": "Люля из телятины",
+        "image": "./img/products/kebab/01.jpg",
+        "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
+        "rating": 5,
+        "price": 420,
+        "quantity": 180,
+        "measurement": "гр"
+    },
+    "04002": {
+        "name": "Шашлык из баранины",
+        "image": "./img/products/kebab/02.jpg",
+        "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
+        "rating": 5,
+        "price": 500,
+        "quantity": 180,
+        "measurement": "гр"
+    },
+    "04003": {
+        "name": "Уч панжа из телятины",
+        "image": "./img/products/kebab/03.jpg",
+        "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
+        "rating": 5,
+        "price": 830,
+        "quantity": 300,
+        "measurement": "гр"
+    },
+    "04004": {
+        "name": "Ассорти шашлыков",
+        "image": "./img/products/kebab/03.jpg",
+        "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
+        "rating": 5,
+        "price": 2200,
+        "quantity": 1000,
+        "measurement": "гр"
+    },
+    "05001": {
+        "name": "Жареные хинкали",
+        "image": "./img/products/khinkali/01.jpg",
+        "description": "Настаящие грузинские хинкали, из лучшего мяса",
+        "rating": 4,
+        "price": 70,
+        "quantity": 1,
+        "measurement": "шт"
+    },
+    "05002": {
+        "name": "Хинкали из баранины",
+        "image": "./img/products/khinkali/02.jpg",
+        "description": "Настаящие грузинские хинкали, из лучшего мяса",
+        "rating": 4,
+        "price": 60,
+        "quantity": 1,
+        "measurement": "шт"
+    },
+    "05003": {
+        "name": "Хинкали из говядины",
+        "image": "./img/products/khinkali/03.jpg",
+        "description": "Настаящие грузинские хинкали, из лучшего мяса",
+        "rating": 4,
+        "price": 65,
+        "quantity": 1,
+        "measurement": "шт"
+    },
+    "05004": {
+        "name": "Хинкали с грибами",
+        "image": "./img/products/khinkali/04.jpg",
+        "description": "Настаящие грузинские хинкали, из лучшего мяса",
+        "rating": 4,
+        "price": 55,
+        "quantity": 1,
+        "measurement": "шт"
+    },
+    "05005": {
+        "name": "Хинкали с сыром и мятой",
+        "image": "./img/products/khinkali/05.jpg",
+        "description": "Настаящие грузинские хинкали, из лучшего мяса",
+        "rating": 5,
+        "price": 55,
+        "quantity": 1,
+        "measurement": "шт"
+    },
+    "06001": {
+        "name": "Наршараб",
+        "image": "./img/products/sauce/01.jpg",
+        "description": "Гранатовый",
+        "rating": 4,
+        "price": 90,
+        "quantity": 50,
+        "measurement": "гр"
+    },
+    "06002": {
+        "name": "Сацебели",
+        "image": "./img/products/sauce/02.jpg",
+        "description": "Острый соус из томатов",
+        "rating": 4,
+        "price": 90,
+        "quantity": 50,
+        "measurement": "гр"
+    },
+    "06003": {
+        "name": "Сметанный соус с чеснаком",
+        "image": "./img/products/sauce/03.jpg",
+        "description": "Чесночный соус по-Имеритински",
+        "rating": 4,
+        "price": 90,
+        "quantity": 50,
+        "measurement": "гр"
+    },
+    "06004": {
+        "name": "Ткемали",
+        "image": "./img/products/sauce/04.jpg",
+        "description": "Соус из кислой сливы",
+        "rating": 4,
+        "price": 90,
+        "quantity": 50,
+        "measurement": "гр"
+    },
+    "06005": {
+        "name": "Аджика",
+        "image": "./img/products/sauce/05.jpg",
+        "description": "Аджика - и этим все сказано",
+        "rating": 5,
+        "price": 90,
+        "quantity": 50,
+        "measurement": "гр"
+    },
 }
