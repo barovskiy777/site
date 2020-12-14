@@ -111,7 +111,7 @@
     },
     "04004": {
         "name": "Ассорти шашлыков",
-        "image": "./img/products/kebab/03.jpg",
+        "image": "./img/products/kebab/04.jpg",
         "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
         "rating": 5,
         "price": 2200,
@@ -562,7 +562,7 @@
     },
     "04009": {
         "name": "Ассорти шашлыков",
-        "image": "./img/products/kebab/03.jpg",
+        "image": "./img/products/kebab/04.jpg",
         "description": "Лучшее мясо, прямиком с дагестана с набором фирменных специй",
         "rating": 5,
         "price": 2200,
