@@ -7,7 +7,7 @@
         "price": 350,
         "quantity": 500,
         "measurement": "мл",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "01002": {
@@ -30,7 +30,7 @@
         "quantity": 400,
         "measurement": "гр",
         "promo": false,
-        "new": false
+        "new": true
     },
     "02002": {
         "name": "Хачапури по-мегрельски",
@@ -51,8 +51,8 @@
         "price": 430,
         "quantity": 550,
         "measurement": "гр",
-        "promo": true,
-        "new": true
+        "promo": false,
+        "new": false
     },
     "03001": {
         "name": "Салат с рукколой и креветками",
@@ -63,7 +63,7 @@
         "quantity": 220,
         "measurement": "гр",
         "promo": false,
-        "new": false
+        "new": true
     },
     "03002": {
         "name": "Салат из свежих овощей со сметаной",
@@ -74,7 +74,7 @@
         "quantity": 220,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     },
     "04001": {
         "name": "Люля из телятины",
@@ -95,7 +95,7 @@
         "price": 500,
         "quantity": 180,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "04003": {
@@ -107,7 +107,7 @@
         "quantity": 300,
         "measurement": "гр",
         "promo": true,
-        "new": true
+        "new": false
     },
     "04004": {
         "name": "Ассорти шашлыков",
@@ -117,7 +117,7 @@
         "price": 2200,
         "quantity": 1000,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "05001": {
@@ -140,7 +140,7 @@
         "quantity": 1,
         "measurement": "шт",
         "promo": false,
-        "new": true
+        "new": false
     },
     "05003": {
         "name": "Хинкали из говядины",
@@ -161,8 +161,8 @@
         "price": 55,
         "quantity": 1,
         "measurement": "шт",
-        "promo": true,
-        "new": false
+        "promo": false,
+        "new": true
     },
     "05005": {
         "name": "Хинкали с сыром и мятой",
@@ -173,7 +173,7 @@
         "quantity": 1,
         "measurement": "шт",
         "promo": false,
-        "new": true
+        "new": false
     },
     "06001": {
         "name": "Наршараб",
@@ -194,7 +194,7 @@
         "price": 90,
         "quantity": 50,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "06003": {
@@ -206,7 +206,7 @@
         "quantity": 50,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     },
     "06004": {
         "name": "Ткемали",
@@ -249,7 +249,7 @@
         "price": 480,
         "quantity": "1000",
         "measurement": "мл",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "07003": {
@@ -282,7 +282,7 @@
         "price": 550,
         "quantity": 500,
         "measurement": "мл",
-        "promo": false,
+        "promo": true,
         "new": false
     },
     "07006": {
@@ -337,7 +337,7 @@
         "price": 400,
         "quantity": 350,
         "measurement": "гр",
-        "promo": false,
+        "promo": true,
         "new": false
     },
     "09001": {
@@ -348,8 +348,8 @@
         "price": 400,
         "quantity": 230,
         "measurement": "гр",
-        "promo": false,
-        "new": false
+        "promo": true,
+        "new": true
     },
     "09002": {
         "name": "Торт Воздушный",
@@ -370,8 +370,8 @@
         "price": 400,
         "quantity": 230,
         "measurement": "гр",
-        "promo": false,
-        "new": false
+        "promo": true,
+        "new": true
     },
     "09004": {
         "name": "Мороженное Мовипик Арахисово",
@@ -403,7 +403,7 @@
         "price": 500,
         "quantity": 350,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "10002": {
@@ -414,8 +414,8 @@
         "price": 570,
         "quantity": 350,
         "measurement": "гр",
-        "promo": true,
-        "new": true
+        "promo": false,
+        "new": false
     },
     "10003": {
         "name": "Спагетти Болоньезе",
@@ -436,7 +436,7 @@
         "price": 540,
         "quantity": 450,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "10005": {
@@ -448,7 +448,7 @@
         "quantity": 440,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     },
     "01006": {
         "name": "Борщ",
@@ -458,7 +458,7 @@
         "price": 350,
         "quantity": 500,
         "measurement": "мл",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "01007": {
@@ -470,7 +470,7 @@
         "quantity": 500,
         "measurement": "мл",
         "promo": false,
-        "new": true
+        "new": false
     },
     "02008": {
         "name": "Хачапури по-аджарски",
@@ -502,8 +502,8 @@
         "price": 430,
         "quantity": 550,
         "measurement": "гр",
-        "promo": true,
-        "new": true
+        "promo": false,
+        "new": false
     },
     "03006": {
         "name": "Салат с рукколой и креветками",
@@ -525,7 +525,7 @@
         "quantity": 220,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     },
     "04006": {
         "name": "Люля из телятины",
@@ -546,7 +546,7 @@
         "price": 500,
         "quantity": 180,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "04008": {
@@ -557,8 +557,8 @@
         "price": 830,
         "quantity": 300,
         "measurement": "гр",
-        "promo": true,
-        "new": true
+        "promo": false,
+        "new": false
     },
     "04009": {
         "name": "Ассорти шашлыков",
@@ -568,7 +568,7 @@
         "price": 2200,
         "quantity": 1000,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "05006": {
@@ -579,7 +579,7 @@
         "price": 70,
         "quantity": 1,
         "measurement": "шт",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "05007": {
@@ -591,7 +591,7 @@
         "quantity": 1,
         "measurement": "шт",
         "promo": false,
-        "new": true
+        "new": false
     },
     "05008": {
         "name": "Хинкали из говядины",
@@ -612,7 +612,7 @@
         "price": 55,
         "quantity": 1,
         "measurement": "шт",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "05010": {
@@ -624,7 +624,7 @@
         "quantity": 1,
         "measurement": "шт",
         "promo": false,
-        "new": true
+        "new": false
     },
     "06006": {
         "name": "Наршараб",
@@ -645,7 +645,7 @@
         "price": 90,
         "quantity": 50,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "06008": {
@@ -657,7 +657,7 @@
         "quantity": 50,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     },
     "06009": {
         "name": "Ткемали",
@@ -700,7 +700,7 @@
         "price": 480,
         "quantity": "1000",
         "measurement": "мл",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "07008": {
@@ -854,7 +854,7 @@
         "price": 500,
         "quantity": 350,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "10009": {
@@ -865,8 +865,8 @@
         "price": 570,
         "quantity": 350,
         "measurement": "гр",
-        "promo": true,
-        "new": true
+        "promo": false,
+        "new": false
     },
     "10008": {
         "name": "Спагетти Болоньезе",
@@ -887,7 +887,7 @@
         "price": 540,
         "quantity": 450,
         "measurement": "гр",
-        "promo": true,
+        "promo": false,
         "new": false
     },
     "10006": {
@@ -899,6 +899,6 @@
         "quantity": 440,
         "measurement": "гр",
         "promo": false,
-        "new": true
+        "new": false
     }
 }
