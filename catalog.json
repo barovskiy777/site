@@ -448,7 +448,7 @@
         "quantity": 440,
         "measurement": "гр",
         "promo": false,
-        "new": true,
+        "new": true
     },
     "01006": {
         "name": "Борщ",
@@ -899,6 +899,6 @@
         "quantity": 440,
         "measurement": "гр",
         "promo": false,
-        "new": true,
+        "new": true
     }
 }
