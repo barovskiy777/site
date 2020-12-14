@@ -266,7 +266,7 @@
     "07004": {
         "name": "Боржоми",
         "image": "./img/products/drinks/04.jpg",
-        "description": "боржоми вода чистая",
+        "description": "Боржоми вода чистая",
         "rating": 4,
         "price": 330,
         "quantity": 330,
@@ -299,7 +299,7 @@
     "08001": {
         "name": "Картошка Деревенская",
         "image": "./img/products/garnishes/01.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -310,7 +310,7 @@
     "08002": {
         "name": "Рис",
         "image": "./img/products/garnishes/02.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -321,7 +321,7 @@
     "08003": {
         "name": "Гречка",
         "image": "./img/products/garnishes/03.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -332,7 +332,7 @@
     "08004": {
         "name": "Картошка Фри",
         "image": "./img/products/garnishes/04.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -717,7 +717,7 @@
     "07009": {
         "name": "Боржоми",
         "image": "./img/products/drinks/04.jpg",
-        "description": "боржоми вода чистая",
+        "description": "Боржоми вода чистая",
         "rating": 4,
         "price": 330,
         "quantity": 330,
@@ -750,7 +750,7 @@
     "08006": {
         "name": "Картошка Деревенская",
         "image": "./img/products/garnishes/01.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -761,7 +761,7 @@
     "08007": {
         "name": "Рис",
         "image": "./img/products/garnishes/02.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -772,7 +772,7 @@
     "08008": {
         "name": "Гречка",
         "image": "./img/products/garnishes/03.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
@@ -783,7 +783,7 @@
     "08009": {
         "name": "Картошка Фри",
         "image": "./img/products/garnishes/04.jpg",
-        "description": "Гаренир",
+        "description": "Гарнир",
         "rating": 4,
         "price": 400,
         "quantity": 350,
