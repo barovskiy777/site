@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "name": "Andruha",
+            "id": 1047,
+            "uniqueUrName": null,
+            "photos": {
+                "small": null,
+                "large": null
+            },
+            "status": null,
+            "followed": false
+        },
+        {
+            "name": "Lexa",
+            "id": 1046,
+            "uniqueUrName": null,
+            "photos": {
+                "small": null,
+                "large": null
+            },
+            "status": null,
+            "followed": false
+        },
+        {
+            "name": "Tom",
+            "id": 1045,
+            "uniqueUrName": null,
+            "photos": {
+                "small": null,
+                "large": null
+            },
+            "status": null,
+            "followed": false
+        },
+        {
+            "name": "Kiril",
+            "id": 1044,
+            "uniqueUrName": null,
+            "photos": {
+                "small": null,
+                "large": null
+            },
+            "status": null,
+            "followed": false
+        },
+        {
+            "name": "Slava",
+            "id": 1043,
+            "uniqueUrName": null,
+            "photos": {
+                "small": null,
+                "large": null
+            },
+            "status": null,
+            "followed": false
+        }
+    ]
+}
